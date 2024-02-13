@@ -10,7 +10,7 @@ This repository provides code examples, schematics, and resources to help users 
 
 # Schematics
 
-![Schematic Diagram](https://github.com/Clwmm/Arduino_Nano_Clock/blob/main/circuit.png)
+![Schematic Diagram](https://github.com/Clwmm/Arduino_Nano_Clock/blob/main/Circuit.png)
 ![Schematic Diagram](https://github.com/Clwmm/Arduino_Nano_Clock/blob/main/4x_7seg.png)
 
 ## Components
